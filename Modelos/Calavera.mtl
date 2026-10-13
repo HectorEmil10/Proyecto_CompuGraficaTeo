@@ -1,0 +1,12 @@
+# Blender 5.2.2 LTS MTL File: 'Calavera.blend'
+# www.blender.org
+
+newmtl main
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/eve18/Downloads/calavera-huichol-lego-bricks/source/model_obj/scaniverse-20210711-104821/texture.jpg
